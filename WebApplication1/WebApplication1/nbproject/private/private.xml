@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Web Development Sem 4">
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/totalCheckout.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/Staff.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/ReservationDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/Customer.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/StaffDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/checkDateServlet.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/util/DBConnection.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/ReceiptServlet.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/login.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/index.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/checkDates.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/Customer.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/loginCustomerDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/CustomerDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/loginAdminDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/web/receipt.jsp</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/loginCustomerServlet1.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/com/dao/loginStaffDao.java</file>
+            <file>file:/C:/Users/haika/OneDrive/Documents/Projek%20Ikmal/WebApplication1/WebApplication1/WebApplication1/src/java/reserveServlet.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/Benjimal/Documents/NetBeansProjects/WebApplication1/WebApplication1/WebApplication1/web/ContactUs.jsp</file>
+            <file>file:/C:/Users/Benjimal/Documents/NetBeansProjects/WebApplication1/WebApplication1/WebApplication1/web/gallery.jsp</file>
+        </group>
+    </open-files>
+</project-private>
